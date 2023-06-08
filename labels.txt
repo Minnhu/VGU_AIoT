@@ -1,0 +1,3 @@
+0 no escape
+1 escape toàn phần
+2 escape 1 phần
